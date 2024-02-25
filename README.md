@@ -16,7 +16,8 @@ Follow the prompts to enter the name of the file you want to find. The program w
 ## Compilation Notes
 
 - Compilation of the static library `file_search_lib.a` should be done separately from compiling the main program. This ensures that changes in the library code trigger recompilation only when necessary.
-- 
+ 
 ## Author
 
-Petskovych Andrii
+-Petskovych Andrii
+-The project was implemented for Global Logic
