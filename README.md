@@ -1,5 +1,8 @@
 # find-file-on-Local-Host
 
+![image](https://github.com/Petskovych/find-file-on-Local-Host/assets/147243488/cd51aaa4-a011-4e1a-b172-802a4d2d1144)
+
+
 This program searches for a given file name in a specified directory and its subdirectories using multiple threads. It provides a command-line interface for users to enter the filename to search for.
 
 ## Compilation Instructions
